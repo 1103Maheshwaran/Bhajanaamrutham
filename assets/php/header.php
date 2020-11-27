@@ -3,7 +3,7 @@
     <!-- Logo -->
 		<a href="index.php" class="logo">
             <span class="symbol"><img src="images/muruga.jpg" alt="" /></span>
-            <span class="title">Sthanunanadha</span>
+            <span class="title">STHAANUNATHA</span>
 		</a>            
         <!-- Nav -->
         <nav>
