@@ -2,6 +2,18 @@
 <html>
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWFY8Y6BP5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-HWFY8Y6BP5');
+	</script>
 	<title>Gallery</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
 	<meta charset="utf-8" />
@@ -17,8 +29,7 @@
 
 		<!-- Header -->
 		<<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
-			include($IPATH . "header.php"); ?> 
-			<!-- Menu -->
+			include($IPATH . "header.php"); ?> <!-- Menu -->
 			<nav id="menu">
 				<h2>Menu</h2>
 				<ul>
