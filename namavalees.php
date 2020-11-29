@@ -3,6 +3,7 @@
 
 <head>
 	<title>Namavalees</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -32,10 +33,10 @@
 			<nav id="menu">
 				<h2>Menu</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about_composer.php">About Composer</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="singer.php">Singers</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="about_composer">About Composer</a></li>
+					<li><a href="gallery">Gallery</a></li>
+					<li><a href="singer">Singers</a></li>
 				</ul>
 			</nav>
 			<!-- Main -->
@@ -63,7 +64,7 @@
 								<a href="#" class="album-poster" data-switch="1">
 									<img src="images/shiva.jpg" alt="">
 								</a>
-								<h4>Dehi Devanaki</h4>
+								<h4>Dehi Devanayaki</h4>
 							</div>
 						</div>
 					</div>
@@ -106,7 +107,7 @@
 							cover: 'images/shiva.jpg',
 						},
 						{
-							name: 'Dehi Devanaki ',
+							name: 'Dehi Devanayaki ',
 							artist: 'Ramini',
 							url: 'https://dl.dropbox.com/s/ns8k2nbq0fid9r2/24.mp3?dl=0',
 							cover: 'images/shiva.jpg',

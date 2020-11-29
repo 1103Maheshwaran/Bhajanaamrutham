@@ -1,8 +1,8 @@
 <header id="header">
 	<div class="inner">
     <!-- Logo -->
-		<a href="index.php" class="logo">
-            <span class="symbol"><img src="images/muruga.jpg" alt="" /></span>
+		<a href="index" class="logo">
+            <span class="symbol"><img src="images/lord-shiva.svg" alt="" /></span>
             <span class="title">STHAANUNATHA</span>
 		</a>            
         <!-- Nav -->
