@@ -3,6 +3,7 @@
 
 <head>
 	<title>Divyanaamam</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -31,10 +32,10 @@
 			<nav id="menu">
 				<h2>Menu</h2>
 				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="about_composer.php">About Composer</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="singer.php">Singers</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="about_composer">About Composer</a></li>
+					<li><a href="gallery">Gallery</a></li>
+					<li><a href="singer">Singers</a></li>
 				</ul>
 			</nav>
 			<!-- Main -->
@@ -48,7 +49,7 @@
 					<header>
 						<h1>Divyanaamam<br /></h1>
 						<h3></h3>
-						<h4>Sorry for the inconvinence,</h4>
+						<h4>Sorry for the inconvenience,</h4>
 						<h4>Content not available.</h4>
 					</header>
 				</div>
