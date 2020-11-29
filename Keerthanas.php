@@ -2,6 +2,18 @@
 <html>
 
 <head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWFY8Y6BP5"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'G-HWFY8Y6BP5');
+	</script>
 	<title>Keerthanas</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
 	<meta charset="utf-8" />
