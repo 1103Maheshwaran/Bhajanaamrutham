@@ -16,6 +16,8 @@
 	</script>
 	<title>Sree Subrahmanya Bhajanaamrutham</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<meta name="keywords" content="sthanunatha, sthaanunatha, bhajanaamrutham, bhajanamrutham, nagarcoil, matam, mutt, Subrahmanya, Sree, Raama Saasthri, bhajan, bhajana">
+	<meta name="description" content="Sree Subrahmanya Bhajanaamrutham">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />

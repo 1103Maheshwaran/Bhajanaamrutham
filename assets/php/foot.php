@@ -100,7 +100,7 @@ if (isset($_POST['submit'])) {
 
 		</section>
 		<ul class="copyright">
-			<li>&copy; Copyrights. All rights reserved</li>
+			<li>&copy; 2020 - Subrahmanya Swami Bhajana Matam. All rights reserved</li>
 		</ul>
 	</div>
 </footer>
