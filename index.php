@@ -14,10 +14,10 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Sree Subrahmanya Bhajanaamrutham</title>
+	<title>Sree Subrahmanya Bhajanaamrutham - STHAANUNATHA</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
-	<meta name="keywords" content="sthanunatha, sthaanunatha, bhajanaamrutham, bhajanamrutham, nagarcoil, matam, mutt, Subrahmanya, Sree, Raama Saasthri, bhajan, bhajana">
-	<meta name="description" content="Sree Subrahmanya Bhajanaamrutham">
+	<meta name="keywords" content="sthanunatha, sthaanunatha, bhajanaamrutham, bhajanamrutham, nagercoil, matam, mutt, Subrahmanya, Sree, Raama Saasthri, bhajan, bhajan">
+	<meta name="description" content="Sree Subrahmanya Bhajanaamrutham a music composition by late. A.Raama Saasthri of Vadiveeswaram Gramam Nagercoil. The composition bears the mudra STHAANUNATHA. His songs have been atributed to Sree Thanumalayan of Suchindram and Lord Muruga the Sthanunatha putra.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
@@ -38,17 +38,6 @@
 			<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
 			include($IPATH . "header.php"); ?>
 
-			<!-- Menu -->
-			<nav id="menu">
-				<h2>Menu</h2>
-				<ul>
-					<li><a href="index">Home</a></li>
-					<li><a href="about_composer">About Composer</a></li>
-					<li><a href="gallery">Gallery</a></li>
-					<li><a href="singer">Singers</a></li>
-				</ul>
-			</nav>
-
 			<!-- Main -->
 			<div id="main">
 				<div class="inner">
@@ -59,7 +48,7 @@
 					<section class="tiles">
 						<article class="style1">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Thodaka Mangalam" />
 							</span>
 							<a href="thodaka_mangalam">
 								<h2>Thodaka Mangalam</h2>
@@ -70,7 +59,7 @@
 						</article>
 						<article class="style2">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Deepaaraadhanam" />
 							</span>
 							<a href="deepaaraadhanam">
 								<h2>Deepaaraadhanam</h2>
@@ -81,7 +70,7 @@
 						</article>
 						<article class="style3">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Divyanaamam" />
 							</span>
 							<a href="divyanaamam">
 								<h2>Divyanaamam</h2>
@@ -92,7 +81,7 @@
 						</article>
 						<article class="style4">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Deepa Pradakshinam" />
 							</span>
 							<a href="deepa_pradakshinam">
 								<h2>Deepa Pradakshinam</h2>
@@ -103,7 +92,7 @@
 						</article>
 						<article class="style5">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Dolothsavam" />
 							</span>
 							<a href="dolothsavam">
 								<h2>Dolothsavam</h2>
@@ -114,7 +103,7 @@
 						</article>
 						<article class="style6">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Mangalam" />
 							</span>
 							<a href="mangalam">
 								<h2>Mangalam</h2>
@@ -125,7 +114,7 @@
 						</article>
 						<article class="style7">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Keerthanas" />
 							</span>
 							<a href="Keerthanas">
 								<h2>Keerthanas</h2>
@@ -136,7 +125,7 @@
 						</article>
 						<article class="style8">
 							<span class="image">
-								<img src="images/subuu.jpg" alt="" />
+								<img src="images/subuu.jpg" alt="Namavalees" />
 							</span>
 							<a href="namavalees">
 								<h2>Namavalees</h2>
