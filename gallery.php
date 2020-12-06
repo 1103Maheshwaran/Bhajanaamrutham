@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,6 +16,7 @@
 	</script>
 	<title>Gallery</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<meta name="description" content="Images that never get erased from our hearts.Images of Vadiveeswaram Gramam which now forms part of Naagercoil Town in Kanyakumari District of Tamil Nadu.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />

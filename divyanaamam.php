@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,6 +16,7 @@
 	</script>
 	<title>Divyanaamam</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<meta name="description" content="Divyanaamam belongs to the first part of Sree Subrahmanya Bhajanaamrutham which comes after Deeparadhanam">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aplayer/1.10.1/APlayer.min.css" />

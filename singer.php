@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 
 <head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,6 +16,7 @@
 	</script>
 	<title>Singers</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<meta name="description" content="These singers none but the Great Grand daughters and sons of the Legendry late. A.Raama Saasthri who have come together to revive his musical compositions.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
