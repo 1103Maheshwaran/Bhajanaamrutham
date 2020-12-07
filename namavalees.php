@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Namavalees</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>STHAANUNATHA Namavalees</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="These are 2 line songs comprising the namas of the Lord">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -49,7 +49,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="0">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Gaja mukha​</h4>
 									</div>
@@ -59,7 +59,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="1">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Shankara Sutha</h4>
 									</div>
@@ -69,7 +69,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="2">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>DuaDasha Netra</h4>
 									</div>
@@ -79,9 +79,9 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="3">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Sampoorna Chandramukha</h4>
+										<h4>Shanmuka Shanmuka</h4>
 									</div>
 								</div>
 							</a>
@@ -89,7 +89,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="4">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Bala Netraja </h4>
 									</div>
@@ -99,7 +99,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="5">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Valli Vallabha</h4>
 									</div>
@@ -109,7 +109,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="6">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Valli Pathe</h4>
 									</div>
@@ -167,7 +167,7 @@
 					cover: 'images/shiva.jpg'
 				},
 				{
-					name: 'Sampoorna Chandramukha',
+					name: 'Shanmuka Shanmuka',
 					artist: 'Ragam-',
 					url: 'https://dl.dropbox.com/s/0dhylnw80y9ki5s/37.mp3?dl=0',
 					cover: 'images/shiva.jpg'

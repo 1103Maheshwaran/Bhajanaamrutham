@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>About Composer</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>About the Composer</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="The Bhajanaamrutham was composed by our great grand father late A.Raama Saasthri of Vadiveeswaram Gramam part of Naagercoil. He had migrated from Chidambaram.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

@@ -15,7 +15,7 @@
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
 	<title>Deepaaraadhanam</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Deepaaraadhanam belongs to the first part of Sree Subrahmanya Bhajanaamrutham and comes after Thodaka Mangalam">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

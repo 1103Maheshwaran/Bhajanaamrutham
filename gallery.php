@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Gallery</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>Bhajanaamrutham Gallery</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Images that never get erased from our hearts.Images of Vadiveeswaram Gramam which now forms part of Naagercoil Town in Kanyakumari District of Tamil Nadu.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

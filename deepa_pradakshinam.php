@@ -15,7 +15,7 @@
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
 	<title>Deepa Pradakshinam</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Deepa Pradakshinam belongs to the first part of Sree Subrahmanya Bhajanaamrutham after Divyanaamam">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
