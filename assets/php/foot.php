@@ -13,7 +13,7 @@ if (isset($_POST['submit'])) {
 	$message = $_POST['message'];
 	//$file= $_POST['attachment'];
 
-		/*if (isset($_FILES['attachment']['name']) && $_FILES['attachment']['name'] != "") {
+	/*if (isset($_FILES['attachment']['name']) && $_FILES['attachment']['name'] != "") {
 			$file = "attachment/" . basename($_FILES['attachment']['name']);
 			move_uploaded_file($_FILES['attachment']['tmp_name'], $file);
 		} else
@@ -30,7 +30,9 @@ if (isset($_POST['submit'])) {
 	$mail->SMTPSecure = "tls"; //ssl
 	$mail->Port = 587; //465
 
+	$mail->ClearReplyTos();
 	$mail->addAddress('1103maheshwaran@gmail.com');
+	$mail->addReplyTo($email, $name);
 	$mail->setFrom($email);
 	$mail->Subject = "name:" . $name . " mail:" . $email . " ";
 	$mail->isHTML(true);
@@ -42,6 +44,25 @@ if (isset($_POST['submit'])) {
 		$msg = "Your email has been sent, thank you!";
 	else
 		$msg = "Please try again!";
+
+	$mail = new PHPMailer();
+
+	//if we want to send via SMTP
+	$mail->Host = "smtp.gmail.com";
+	$mail->isSMTP();
+	$mail->SMTPAuth = true;
+	$mail->Username = "1103maheshwaran@gmail.com";
+	$mail->Password = "ram12shyam";
+	$mail->SMTPSecure = "tls"; //ssl
+	$mail->Port = 587; //465
+
+	$mail->ClearReplyTos();
+	$mail->addAddress($email);
+	$mail->setFrom('1103maheshwaran@gmail.com');
+	$mail->Subject = "Recieved your message";
+	$mail->isHTML(true);
+	$mail->Body = nl2br("Thankyou $name for your valuable feedback.\r\nKeep enjoying bhajans from https://bhajanaamrutham.herokuapp.com/ \r\n\n\n\n\nRegards,\r\nSubrahmanya Swami Bhajana Matam,\r\nNagercoil ");
+	$mail->send();
 
 	//	echo $msg;
 	//	echo $name;
@@ -64,7 +85,7 @@ if (isset($_POST['submit'])) {
 		x.className = "show";
 		setTimeout(function() {
 			x.className = x.className.replace("show", "");
-		}, 3000);
+		}, 4000);
 	}
 </script>
 
@@ -90,7 +111,7 @@ if (isset($_POST['submit'])) {
 				<ul class="actions">
 					<li onclick="myFunction()"><input type="submit" name="submit" value="send" class="primary"></li>
 				</ul>
-				<div id="snackbar">Thanks for sending the message...</div>
+				<div id="snackbar">Sending the message...</div>
 			</form>
 		</section>
 		<section>
