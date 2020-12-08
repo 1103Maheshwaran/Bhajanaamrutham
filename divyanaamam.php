@@ -45,8 +45,38 @@
 					<header style="text-align: center;">
 						<h1>Divyanaamam</h1>
 					</header>
-					<h4>Sorry for the inconvenience,</h4>
-					<h4>Content not available.</h4>
+					<div class="row1">
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="0">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Deva Sena Adipathe</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="1">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Karthikeyavi Mukhe</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="2">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Shanmukasya Charita</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- Footer -->
@@ -78,7 +108,25 @@
 		const ap = new APlayer({
 			container: document.getElementById('aplayer'),
 			listFolded: true,
-			audio: []
+			audio: [{
+					name: 'Deva Sena Adipathe',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/2yje8b0uzwd7u6w/Deva%20Sena%20Adipathe.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Karthikeyavi Mukhe',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/a9xxyuajqqgbjc5/Karthikeya%20Vinuthe.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Shanmukasya Charita',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/7cnk6bzn4zv5c7y/Shanmukasya%20Charita.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+			]
 		});
 	</script>
 	<script src="app.js"></script>

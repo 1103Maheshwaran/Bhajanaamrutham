@@ -45,8 +45,28 @@
 					<header style="text-align: center;">
 						<h1>Deepaaraadhanam</h1>
 					</header>
-					<h4>Sorry for the inconvenience,</h4>
-					<h4>Content not available.</h4>
+					<div class="row1">
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="0">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Jaya Jaya Parvathi</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="1">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Deepa Aradhanam​</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- Footer -->
@@ -78,7 +98,19 @@
 		const ap = new APlayer({
 			container: document.getElementById('aplayer'),
 			listFolded: true,
-			audio: []
+			audio: [{
+					name: 'Jaya Jaya Parvathi',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/ok5h2li08flegy8/jaya%20jaya%20parvathi.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Deepa Aradhanam',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/cir57i6u39hnep8/divyanamam.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+			]
 		});
 	</script>
 	<script src="app.js"></script>
