@@ -61,7 +61,7 @@ if (isset($_POST['submit'])) {
 	$mail->setFrom('1103maheshwaran@gmail.com');
 	$mail->Subject = "Recieved your message";
 	$mail->isHTML(true);
-	$mail->Body = nl2br("Thankyou $name for your valuable feedback.\r\nKeep enjoying bhajans from http://www.sthanu.tech \r\n\n\n\n\nRegards,\r\nSubrahmanya Swami Bhajana Matam,\r\nNagercoil ");
+	$mail->Body = nl2br("Thankyou $name for your valuable feedback.\r\nKeep enjoying bhajans from https://www.sthanu.tech \r\n\n\n\n\nRegards,\r\nSubrahmanya Swami Bhajana Matam,\r\nNagercoil ");
 	$mail->send();
 
 	//	echo $msg;
