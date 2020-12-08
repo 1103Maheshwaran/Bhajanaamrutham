@@ -38,7 +38,7 @@ if (isset($_POST['submit'])) {
 	$mail->isHTML(true);
 	$mail->Body = $message;
 	//$mail->addAttachment($file);
-	$mail->addAttachment($_FILES['attachment']['tmp_name'],$_FILES['attachment']['name']);
+	$mail->addAttachment($_FILES['attachment']['tmp_name'], $_FILES['attachment']['name']);
 
 	if ($mail->send())
 		$msg = "Your email has been sent, thank you!";
@@ -116,7 +116,9 @@ if (isset($_POST['submit'])) {
 		</section>
 		<section>
 			<h2>Map</h2>
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15797.896948071102!2d77.46537760000002!3d8.154881099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2ba5b892b06c8c39!2sSree%20Thanumalayan%20Temple!5e0!3m2!1sen!2sin!4v1606124407634!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+			<div class="google-maps">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15797.896948071102!2d77.46537760000002!3d8.154881099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2ba5b892b06c8c39!2sSree%20Thanumalayan%20Temple!5e0!3m2!1sen!2sin!4v1606124407634!5m2!1sen!2sin" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
+			</div>
 			</iframe>
 
 		</section>

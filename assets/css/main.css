@@ -103,7 +103,21 @@ nav,
 section {
 	display: block;
 }
-/* 
+/* MAp*/
+.google-maps {
+	position: relative;
+	padding-bottom: 90%; 
+	height: 0;
+	overflow: hidden;
+}
+.google-maps iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 100% !important;
+}
+/*Map End*/
 /*My responsive album*/
 .row1 {
 	display: -ms-flexbox; /* IE10 */
