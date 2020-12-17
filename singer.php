@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Singers</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>Bhajanaamrutham Singers</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="These singers none but the Great Grand daughters and sons of the Legendry late. A.Raama Saasthri who have come together to revive his musical compositions.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

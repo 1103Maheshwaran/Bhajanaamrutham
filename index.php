@@ -15,7 +15,7 @@
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
 	<title>Sree Subrahmanya Bhajanaamrutham - STHAANUNATHA</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="msvalidate.01" content="7792E5BA38AC7EA7DB7987B4AEDD7637" />
 	<meta name="keywords" content="sthanunatha, sthaanunatha, bhajanaamrutham, bhajanamrutham, nagercoil, matam, mutt, Subrahmanya, Sree, Raama Saasthri, bhajan, bhajan">
 	<meta name="description" content="Music composition by late A.Raama Saasthri(1840-1873) of Vadiveeswaram Gramam Nagercoil. Composition bears the mudra STHAANUNATHA prisiding deity of Suchindram">

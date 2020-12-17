@@ -45,8 +45,98 @@
 					<header style="text-align: center;">
 						<h1>Thodaka Mangalam</h1>
 					</header>
-					<h4>Sorry for the inconvenience,</h4>
-					<h4>Content not available.</h4>
+					<div class="row1">
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="0">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Thodaka Dyahna Slokam​</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="1">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Jaya Janavi Thanaya​</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="2">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Sharanam Bhavathu</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="3">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Sharanaga Thamara</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="4">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Sura Nayaka</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="5">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Tharaka Hara</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="6">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Shamuka Nayaka</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="7">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Sharavana bhava te</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+						<div class="column1">
+							<a href="#" class="album-poster" data-switch="8">
+								<div class="polaroid">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
+									<div class="container">
+										<h4>Mangalam Deva Senadhipathe</h4>
+									</div>
+								</div>
+							</a>
+						</div>
+					</div>
 				</div>
 			</div>
 			<!-- Footer -->
@@ -78,7 +168,61 @@
 		const ap = new APlayer({
 			container: document.getElementById('aplayer'),
 			listFolded: true,
-			audio: []
+			audio: [{
+					name: 'Thodaka Dyahna Slokam',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/ovdz8wdstuw2mgw/dhayanaSlokam.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Jaya Janavi Thanaya',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/miv7x9p31lx34ai/jayaJanakiThanaya.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Sharanam Bhavathu',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/049ys079vwfriv7/Sharanam.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Sharanaga Thamara',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/b61ut8lq17jng2i/sharavanabava%20te%20namo.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Sura Nayaka',
+					artist: 'Ragam-',
+					url: 'https://www.dropbox.com/s/b0ikb6pkfafi1xf/sura%20nayaka.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Tharaka Hara',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/3m4ejn5k6k2eb2j/Jaya%20Mangalam.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Shamuka Nayaka',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/stxmzede7cnfg50/shanmuka%20nayaka.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Sharavana bhava te',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/sh68gwie6u9u41p/sharavanabava%20te%20dehi.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
+					name: 'Mangalam Deva Senadhipathe',
+					artist: 'Ragam-',
+					url: 'https://dl.dropbox.com/s/5b599eqri5wictp/Jaya%20Mangalam%202.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+			]
 		});
 	</script>
 	<script src="app.js"></script>

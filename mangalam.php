@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Mangalam</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>STHAANUNATHA Mangalam</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="The Final song of Sree Subrahmanya Bhajanaamrutham usually accompanied with aarthi.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -49,7 +49,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="0">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Jaya Gowri Suth​</h4>
 									</div>

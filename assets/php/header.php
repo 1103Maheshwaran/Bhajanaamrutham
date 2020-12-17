@@ -2,7 +2,7 @@
 	<div class="inner">
 		<!-- Logo -->
 		<a href="index" class="logo">
-			<span1 class="symbol"><img src="images/lord-shiva.svg" alt="" /></span1>
+			<span1 class="symbol"><img src="images/lord-shiva.svg" alt="Lord Shiva" /></span1>
 			<span1 class="title">STHAANUNATHA</span1>
 		</a>
 		<!-- Nav -->

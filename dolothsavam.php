@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Dolothsavam</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>STHAANUNATHA Dolothsavam</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Dolothsavam comprises of a set of songs in praise of Lord Sthanunaatha.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -49,7 +49,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="0">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Indradi Dev<br> {इन्द्रादि देव}​</h4>
 									</div>
@@ -59,7 +59,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="1">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Sarvani​</h4>
 									</div>
@@ -69,7 +69,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="2">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Sambhaputra​</h4>
 									</div>
@@ -79,7 +79,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="3">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Shauryodha Sagara<br> {शौर्योध सगर}​​</h4>
 									</div>
@@ -89,7 +89,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="4">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Karthikeya Dehi<br> {कर्थिकेयदेहि}</br> </h4>
 									</div>
@@ -99,7 +99,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="5">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Dehi Deva Nayaki</h4>
 									</div>
@@ -109,7 +109,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="6">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Deva Senapathe</h4>
 									</div>
@@ -119,7 +119,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="7">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Tharakasura</h4>
 									</div>
@@ -129,7 +129,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="8">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Barhindra Vahanam</h4>
 									</div>
@@ -139,7 +139,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="9">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Akila lokadi Pathe</h4>
 									</div>
@@ -149,7 +149,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="10">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Guha Tava Krupaya</h4>
 									</div>
@@ -159,7 +159,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="11">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Aho Purvadi</h4>
 									</div>
@@ -169,7 +169,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="12">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Slokam</h4>
 									</div>
@@ -179,7 +179,7 @@
 						<div class="column1">
 							<a href="#" class="album-poster" data-switch="13">
 								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%">
+									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
 										<h4>Suprabhatham</h4>
 									</div>

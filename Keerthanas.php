@@ -14,8 +14,8 @@
 
 		gtag('config', 'G-HWFY8Y6BP5');
 	</script>
-	<title>Keerthanas</title>
-	<link rel="shortcut icon" type="image/ico" href="images/om.ico">
+	<title>STHAANUNATHA Keerthanas</title>
+	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Kerrthanas comprises of devotional songs, it belongs to the first part of Sree Subrahmanya Bhajanaamrutham.">
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sthanu.tech
+Token: fc0ece9771e37d884f904998bd7a35e6827e22fb5e3e39fcd3a1a4050d6c0dcb
