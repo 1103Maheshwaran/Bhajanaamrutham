@@ -24,56 +24,58 @@
 		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 </head>
 
-<body class="is-preload">
-	<!-- Wrapper -->
-	<div id="wrapper">
+<body>
+	<div class="startload">
+		<img class="om" src="images/om.ico" alt="om" />
+		<h3>Loading...</h3>
+	</div>
+	<div class="is-preload">
+		<!-- Wrapper -->
+		<div id="wrapper">
 
-		<!-- Header -->
-		<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
-		include($IPATH . "header.php"); ?>
+			<!-- Header -->
+			<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
+			include($IPATH . "header.php"); ?>
 
-		<!-- Main -->
-		<div id="main">
-			<div class="inner">
-				<header style="text-align: center;">
-					<h1>Singers</h1>
-				</header>
-				<div class="vessel">
-					<div class="row1">
-						<div class="column1">
-							<div class="grid-container">
-								<div>
-									<img class='grid-item grid-item-1' src="images/ammama.jpeg" alt='Anandhi Shankar & Krishnan'>
-									<p>"Anandhi Shankar & Krishnan"</p>
+			<!-- Main -->
+			<div id="main">
+				<div class="inner">
+					<header style="text-align: center;">
+						<h1>Singers</h1>
+					</header>
+					<div class="vessel">
+						<div class="row1">
+							<div class="column1">
+								<div class="grid-container">
+									<div>
+										<img class='grid-item grid-item-1' src="images/ammama.jpeg" alt='Anandhi Shankar & Krishnan'>
+										<p>"Anandhi Shankar & Krishnan"</p>
+									</div>
 								</div>
 							</div>
-						</div>
-						<!--div class="column1">
+							<!--div class="column1">
 							<div class="grid-container">
 								<div>
 									<img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
 									<p>"Its me :)"</p>
 								</div-->
-							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<!-- Footer -->
+			<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
+			include($IPATH . "foot.php"); ?>
 		</div>
-
-		<!-- Footer -->
-		<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
-		include($IPATH . "foot.php"); ?>
-
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
 	</div>
-
-	<!-- Scripts -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/browser.min.js"></script>
-	<script src="assets/js/breakpoints.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<script src="assets/js/main.js"></script>
-
+	<script src="app.js"></script>
 </body>
 
 </html>
