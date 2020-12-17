@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics >
+	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-HWFY8Y6BP5"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
@@ -13,7 +13,7 @@
 		gtag('js', new Date());
 
 		gtag('config', 'G-HWFY8Y6BP5');
-	</script> -->
+	</script> 
 	<title>Bhajanaamrutham Gallery</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Images that never get erased from our hearts.Images of Vadiveeswaram Gramam which now forms part of Naagercoil Town in Kanyakumari District of Tamil Nadu.">
