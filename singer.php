@@ -30,19 +30,40 @@
 
 		<!-- Header -->
 		<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
-			include($IPATH . "header.php"); ?> 
+		include($IPATH . "header.php"); ?>
 
-			<!-- Main -->
-			<div id="main">
-				<div class="inner">
+		<!-- Main -->
+		<div id="main">
+			<div class="inner">
+				<header style="text-align: center;">
 					<h1>Singers</h1>
-					<h4>Images will be uploaded soon</h4>
+				</header>
+				<div class="vessel">
+					<div class="row1">
+						<div class="column1">
+							<div class="grid-container">
+								<div>
+									<img class='grid-item grid-item-1' src="images/ammama.jpeg" alt='Anandhi Shankar & Krishnan'>
+									<p>"Anandhi Shankar & Krishnan"</p>
+								</div>
+							</div>
+						</div>
+						<!--div class="column1">
+							<div class="grid-container">
+								<div>
+									<img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+									<p>"Its me :)"</p>
+								</div-->
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
+		</div>
 
-			<!-- Footer -->
-			<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
-			include($IPATH . "foot.php"); ?>
+		<!-- Footer -->
+		<?php $IPATH = $_SERVER["DOCUMENT_ROOT"] . "/assets/php/";
+		include($IPATH . "foot.php"); ?>
 
 	</div>
 
