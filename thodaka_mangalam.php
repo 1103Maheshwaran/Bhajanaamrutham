@@ -116,26 +116,6 @@
 								</div>
 							</a>
 						</div>
-						<div class="column1">
-							<a href="#" class="album-poster" data-switch="7">
-								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
-									<div class="container">
-										<h4>Sharavana bhava te</h4>
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="column1">
-							<a href="#" class="album-poster" data-switch="8">
-								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
-									<div class="container">
-										<h4>Mangalam Deva Senadhipathe</h4>
-									</div>
-								</div>
-							</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -170,56 +150,44 @@
 			listFolded: true,
 			audio: [{
 					name: 'Thodaka Dyahna Slokam',
-					artist: 'Ragam-',
+					artist: 'Ragam-Naata',
 					url: 'https://dl.dropbox.com/s/ovdz8wdstuw2mgw/dhayanaSlokam.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Jaya Janavi Thanaya',
-					artist: 'Ragam-',
+					artist: 'Ragam-Naata',
 					url: 'https://dl.dropbox.com/s/miv7x9p31lx34ai/jayaJanakiThanaya.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Sharanam Bhavathu',
-					artist: 'Ragam-',
+					artist: 'Ragam-Aarabhee',
 					url: 'https://dl.dropbox.com/s/049ys079vwfriv7/Sharanam.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Sharanaga Thamara',
-					artist: 'Ragam-',
+					artist: 'Ragam-Madhyamavti',
 					url: 'https://dl.dropbox.com/s/b61ut8lq17jng2i/sharavanabava%20te%20namo.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Sura Nayaka',
-					artist: 'Ragam-',
-					url: 'https://www.dropbox.com/s/b0ikb6pkfafi1xf/sura%20nayaka.mp3?dl=0',
+					artist: 'Ragam-Saveree',
+					url: 'https://dl.dropbox.com/s/b0ikb6pkfafi1xf/sura%20nayaka.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Tharaka Hara',
-					artist: 'Ragam-',
+					artist: 'Ragam-Panthuvarali',
 					url: 'https://dl.dropbox.com/s/3m4ejn5k6k2eb2j/Jaya%20Mangalam.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Shamuka Nayaka',
-					artist: 'Ragam-',
+					artist: 'Ragam-Nadanamakriya',
 					url: 'https://dl.dropbox.com/s/stxmzede7cnfg50/shanmuka%20nayaka.mp3?dl=0',
-					cover: 'images/shiva.jpg'
-				},
-				{
-					name: 'Sharavana bhava te',
-					artist: 'Ragam-',
-					url: 'https://dl.dropbox.com/s/sh68gwie6u9u41p/sharavanabava%20te%20dehi.mp3?dl=0',
-					cover: 'images/shiva.jpg'
-				},
-				{
-					name: 'Mangalam Deva Senadhipathe',
-					artist: 'Ragam-',
-					url: 'https://dl.dropbox.com/s/5b599eqri5wictp/Jaya%20Mangalam%202.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 			]

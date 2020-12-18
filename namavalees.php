@@ -156,37 +156,37 @@
 				},
 				{
 					name: 'Shankara Sutha',
-					artist: 'Ragam-',
+					artist: 'Ragam-Kamaasu',
 					url: 'https://dl.dropbox.com/s/vps8s2srqqaimre/35.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'DuaDasha Netra',
-					artist: 'Ragam',
+					artist: 'Ragam-Behag',
 					url: 'https://dl.dropbox.com/s/i7myktdltpp1k0p/36.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Shanmuka Shanmuka',
-					artist: 'Ragam-',
+					artist: 'Ragam-Poorvikalyaani',
 					url: 'https://dl.dropbox.com/s/0dhylnw80y9ki5s/37.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Bala Netraja',
-					artist: 'Ragam',
+					artist: 'Ragam-Kedara Gowla',
 					url: 'https://dl.dropbox.com/s/a7ngpp72d6h3m2l/38.mp3?dl=0',
 					cover: 'images/shiva.jpg',
 				},
 				{
 					name: 'Valli Vallabha',
-					artist: 'Ragam',
+					artist: 'Ragam-Sindhu Bhairavi',
 					url: 'https://dl.dropbox.com/s/qwuouoo6al5q9k7/41.mp3?dl=0',
 					cover: 'images/shiva.jpg',
 				},
 				{
 					name: 'Valli Pathe',
-					artist: 'Ragam-',
+					artist: 'Ragam-Janjhooti',
 					url: 'https://dl.dropbox.com/s/3au3xzoufl9rae3/42.mp3?dl=0',
 					cover: 'images/shiva.jpg',
 				},

@@ -47,9 +47,9 @@
 						<h2></h2>
 					</header>
 					<section class="tiles">
-						<article class="style1">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Thodaka Mangalam" />
+								<img src="images/murugan1.jpeg" alt="Thodaka Mangalam" />
 							</span>
 							<a href="thodaka_mangalam">
 								<h2>Thodaka Mangalam</h2>
@@ -58,9 +58,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style2">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Deepaaraadhanam" />
+								<img src="images/murugan2.jpeg" alt="Deepaaraadhanam" />
 							</span>
 							<a href="deepaaraadhanam">
 								<h2>Deepaaraadhanam</h2>
@@ -69,9 +69,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style3">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Divyanaamam" />
+								<img src="images/murugan3.jpeg" alt="Divyanaamam" />
 							</span>
 							<a href="divyanaamam">
 								<h2>Divyanaamam</h2>
@@ -80,9 +80,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style4">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Deepa Pradakshinam" />
+								<img src="images/murugan4.jpeg" alt="Deepa Pradakshinam" />
 							</span>
 							<a href="deepa_pradakshinam">
 								<h2>Deepa Pradakshinam</h2>
@@ -91,9 +91,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style5">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Dolothsavam" />
+								<img src="images/palani.jpg" alt="Dolothsavam" />
 							</span>
 							<a href="dolothsavam">
 								<h2>Dolothsavam</h2>
@@ -102,9 +102,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style6">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Mangalam" />
+								<img src="images/kundrathur.jpeg" alt="Mangalam" />
 							</span>
 							<a href="mangalam">
 								<h2>Mangalam</h2>
@@ -113,9 +113,9 @@
 								</div>
 							</a>
 						</article>
-						<article class="style7">
+						<article>
 							<span class="image">
-								<img src="images/subuu.jpg" alt="Keerthanas" />
+								<img src="images/kumara.jpg" alt="Keerthanas" />
 							</span>
 							<a href="Keerthanas">
 								<h2>Keerthanas</h2>
@@ -124,7 +124,7 @@
 								</div>
 							</a>
 						</article>
-						<article class="style8">
+						<article>
 							<span class="image">
 								<img src="images/subuu.jpg" alt="Namavalees" />
 							</span>

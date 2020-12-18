@@ -51,7 +51,7 @@
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Slokas</h4>
+										<h4>Skanda Deva Shanmukha</h4>
 									</div>
 								</div>
 							</a>
@@ -61,7 +61,7 @@
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Skandha Deva</h4>
+										<h4>Amara Sena Adipathe</h4>
 									</div>
 								</div>
 							</a>
@@ -71,7 +71,7 @@
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Bala Subrhmanya Shanmuka</h4>
+										<h4>Deva Deva Nayaki</h4>
 									</div>
 								</div>
 							</a>
@@ -81,7 +81,7 @@
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Deva Deva Nayaki</h4>
+										<h4>Shanmuka Natha Pahi</h4>
 									</div>
 								</div>
 							</a>
@@ -91,23 +91,13 @@
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
-										<h4>Shanmuka Natha Pahi</h4>
-									</div>
-								</div>
-							</a>
-						</div>
-						<div class="column1">
-							<a href="#" class="album-poster" data-switch="5">
-								<div class="polaroid">
-									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
-									<div class="container">
 										<h4>Palayamam Guha</h4>
 									</div>
 								</div>
 							</a>
 						</div>
 						<div class="column1">
-							<a href="#" class="album-poster" data-switch="6">
+							<a href="#" class="album-poster" data-switch="5">
 								<div class="polaroid">
 									<img src="images/shiva.jpg" style="width:100%" alt="Shiva Kutambam">
 									<div class="container">
@@ -148,45 +138,40 @@
 		const ap = new APlayer({
 			container: document.getElementById('aplayer'),
 			listFolded: true,
-			audio: [{
-					name: 'Slokas',
-					artist: 'Ragam-',
-					url: 'https://dl.dropbox.com/s/rf9jllgn1dqcz7d/slokas.mp3?dl=0',
-					cover: 'images/shiva.jpg'
-				},
+			audio: [
 				{
-					name: 'Skandha Deva',
-					artist: 'Ragam-',
-					url: 'https://dl.dropbox.com/s/bijp1nhsk3m913u/Skandha%20Deva.mp3?dl=0',
-					cover: 'images/shiva.jpg'
-				},
-				{
-					name: 'Bala Subrhmanya Shanmuka',
+					name: 'Skanda Deva Shanmukha',
 					artist: 'Ragam-',
 					url: 'https://dl.dropbox.com/s/ol1vtut04tmku9z/Shanmukha.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
+					name: 'Amara Sena Adipathe',
+					artist: 'Ragam-Ananda Bhairavi',
+					url: 'https://dl.dropbox.com/s/c4w0g3pq36udjza/Amarasenadepa.mp3?dl=0',
+					cover: 'images/shiva.jpg'
+				},
+				{
 					name: 'Deva Deva Nayaki',
-					artist: 'Ragam-',
+					artist: 'Ragam-Kuranjee',
 					url: 'https://dl.dropbox.com/s/gw9g167fgoryvkh/Deva%20Deva%20Nayaki.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Shanmuka Natha Pahi',
-					artist: 'Ragam-',
+					artist: 'Ragam-Kaanada',
 					url: 'https://dl.dropbox.com/s/2lh02s6u6ymt7g3/Shanmuka%20natha%20pahi.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Palayamam Guha',
-					artist: 'Ragam-',
+					artist: 'Ragam-Ananda Bhairavi',
 					url: 'https://dl.dropbox.com/s/s8upan267gal1ce/Palayamam%20Guha.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},
 				{
 					name: 'Kedayalo',
-					artist: 'Ragam-',
+					artist: 'Ragam-Thodi',
 					url: 'https://dl.dropbox.com/s/yyhz3dm43ugfsg8/Kedayalo.mp3?dl=0',
 					cover: 'images/shiva.jpg'
 				},

@@ -61,7 +61,7 @@ if (isset($_POST['submit'])) {
 	$mail->setFrom('1103maheshwaran@gmail.com');
 	$mail->Subject = "Recieved your message";
 	$mail->isHTML(true);
-	$mail->Body = nl2br("Thankyou $name for your valuable feedback.\r\nKeep enjoying bhajans from https://www.sthanu.tech \r\n\n\n\n\nRegards,\r\nSubrahmanya Swami Bhajana Matam,\r\nNagercoil ");
+	$mail->Body = nl2br("Hi $name,\r\nThank you so much for reaching out.\r\nThis is an auto-reply just to let you know.I have received your email and will get back to you with a (human) response as soon as possible.\r\nKeep enjoying bhajans from Sree Subrahmanya Bhajanaamrutham.\r\n\n\n\n\nRegards,\r\nSubrahmanya Swami Bhajana Matam,\r\nNagercoil \r\nhttps://www.sthanu.tech (Domain valid till Dec 3, 2021) \r\nhttps://bhajanaamrutham.herokuapp.com/ (Permanent Domain)");
 	$mail->send();
 
 	//	echo $msg;

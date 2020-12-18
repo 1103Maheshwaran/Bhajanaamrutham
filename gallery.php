@@ -13,7 +13,7 @@
 		gtag('js', new Date());
 
 		gtag('config', 'G-HWFY8Y6BP5');
-	</script> 
+	</script>
 	<title>Bhajanaamrutham Gallery</title>
 	<link rel="shortcut icon" type="image/ico" href="images/om.ico" alt="om">
 	<meta name="description" content="Images that never get erased from our hearts.Images of Vadiveeswaram Gramam which now forms part of Naagercoil Town in Kanyakumari District of Tamil Nadu.">
@@ -44,12 +44,13 @@
 					</header>
 					<div class="gallery" id="gallery">
 						<div class="gallery-item">
-							<div class="content"><img src="images/sthanu.jpeg" alt=""></div>
+							<div class="content"><img src="images/book.jpeg" alt=""></div>
 						</div>
-						<div class="column1">
-							<!--div class="gallery-item">
-						<div class="content"><img src="images/shiva.jpg" alt=""></div>
-					</div-->
+						<div class="gallery-item">
+							<div class="content"><img src="images/page1.jpeg" alt=""></div>
+						</div>
+						<div class="gallery-item">
+							<div class="content"><img src="images/sthanu.jpeg" alt=""></div>
 						</div>
 					</div>
 				</div>
