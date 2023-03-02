@@ -26,7 +26,7 @@ if (isset($_POST['submit'])) {
 	$mail->isSMTP();
 	$mail->SMTPAuth = true;
 	$mail->Username = "1103maheshwaran@gmail.com";
-	$mail->Password = "ram12shyam";
+	$mail->Password = "Ram12shyam$";
 	$mail->SMTPSecure = "tls"; //ssl
 	$mail->Port = 587; //465
 
